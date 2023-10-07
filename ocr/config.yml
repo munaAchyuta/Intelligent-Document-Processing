@@ -89,6 +89,13 @@ MODEL:
   PROPOSAL_GENERATOR:
     MIN_SIZE: 0
     NAME: RPN
+  DOCNET:
+    FEATURES:
+    - Pega
+    - jVVXKc
+    - WpEUXQSB
+    - kaAfocyy
+    - UEUTbjQy
   RESNETS:
     DEFORM_MODULATED: false
     DEFORM_NUM_GROUPS: 1
